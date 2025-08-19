@@ -83,7 +83,7 @@ export const DATA = {
       start: "Jun 2025",
       end: "Aug 2025",
       description: [
-        "- Developed and optimized backend infrastructure for improving scalability and reliability",
+        "- Developed and optimized backend infrastructure for improving scalability and reliability ",
         "- Improve their CI-CD pipeline, and work on backend game graphics.",
       ],
       links: [
